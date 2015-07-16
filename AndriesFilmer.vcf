@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+ADR;TYPE=HOME:;;Brederodestraat 132;Zandvoort;NL;2042 BK;Netherlands
+TEL;TYPE=CELL:0654621734
+EMAIL;TYPE=WORK:andries@filmer.nl
+N:Filmer;Andries;;;
+FN:Andries Filmer
+NOTE:Internet professional sinds 1996
+ROLE:Internet Professional
+ORG:iGroupware;;
+TITLE:
+URL:http://andries.filmer.nl
+END:VCARD
